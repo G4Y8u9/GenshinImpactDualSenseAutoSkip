@@ -14,7 +14,9 @@ Genshin Impact Dual Sense controller auto skip Python script
 `pip install pygame vgamepad`
 - 另外需要安装 ViGEmBus 驱动（vgamepad 依赖），否则无法创建虚拟 Xbox 手柄。
 
-- 默认点击间隔为 1 秒，可修改代码中的：
+
+
+默认点击间隔为 1 秒，可修改代码中的：
 
 `press_interval = 1.0`
 
