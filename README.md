@@ -1,5 +1,5 @@
 # GenshinImpactDualSenseAutoSkip
-Genshin Impact Dual Sense controller auto skip Python script
+Genshin Impact DualSense® controller auto skip Python script
 
 
 ## 功能
